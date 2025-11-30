@@ -2,8 +2,8 @@
 
 # EX 1 
 
-!(Interface_Ex_1.jng)
+!(./Interface_Ex_1.jng)
 
 # EX 2
 
-!(Interface_Ex_2.jng)
+!(./Interface_Ex_2.jng)
