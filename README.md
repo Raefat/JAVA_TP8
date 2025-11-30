@@ -2,8 +2,8 @@
 
 # EX 1 
 
-!(./Interface_Ex_1.jng)
+![ex1](./Interface_Ex_1.jpg)
 
 # EX 2
 
-!(./Interface_Ex_2.jng)
+![ex2](./Interface_Ex_2.jpg)
